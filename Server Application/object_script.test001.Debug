@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\lcd.o
+./debug\block.o
+./debug\button.o
+./debug\Rbutton.o
+./debug\qrc_lcd.o
+./debug\moc_lcd.o
+./debug\moc_button.o
+./debug\moc_block.o
+./debug\moc_Rbutton.o
+);

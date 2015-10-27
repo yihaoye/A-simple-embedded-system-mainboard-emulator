@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\lcd.o
+./release\block.o
+./release\button.o
+./release\Rbutton.o
+./release\qrc_lcd.o
+./release\moc_lcd.o
+./release\moc_button.o
+./release\moc_block.o
+./release\moc_Rbutton.o
+);
