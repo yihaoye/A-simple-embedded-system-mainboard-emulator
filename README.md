@@ -1,6 +1,8 @@
 # A-simple-embedded-system-mainboard-emulator
 This emulator program is written by C++, running on Qt
 There are two programs, one is Embedded System Mainboard Emulator, another one is program allow user to write code to control the Emulator just like they do with real hardware.
+Here is the real hardware prototype.
+![alt tag](https://github.com/yihaoye/A-simple-embedded-system-mainboard-emulator/blob/master/screen%20shot/0.png)
 
 1. First, run the GUI Emulator program by click client exe program.
 ![alt tag](https://github.com/yihaoye/A-simple-embedded-system-mainboard-emulator/blob/master/screen%20shot/1.png)
